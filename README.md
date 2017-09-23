@@ -2,7 +2,7 @@
 ### leverage the power of python and tableau to build real-time ML data analysis based on Iris dataset.
 
 _Python version_: 2.7  
-_Tableu version_: 10.3
+_Tableau Desktop_: 10.3
 
 Before you run the twbx file, you need to prepare your enviroment as below:
 1. download iris_classiffier2.ipynb and dataset files;
