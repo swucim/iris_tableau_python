@@ -10,3 +10,5 @@ Before you run the twbx file, you need to prepare your enviroment as below:
 3. install tabpy_server and tabpy_client then startup the server;
 4. run ipynb file and deploy the function to tabpy server;
 5. open twbx file, config tabpy server address, then enjoy it!
+
+![image could be find in github page](/Iris_analysis_and_prediction.png "Iris_analysis_and_prediction")
