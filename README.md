@@ -1,5 +1,5 @@
 # iris_tableau_python
-### leverage the power of python and tableau to build real-time ML data analysis based on Iris dataset.
+### leverage the power of python and tableau to build up real-time ML data analysis solution based on Iris dataset.
 
 _Python version_: 2.7  
 _Tableau Desktop_: 10.3
