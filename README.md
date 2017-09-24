@@ -11,7 +11,7 @@ Before you run the twbx file, you need to prepare your enviroment as below:
 4. run ipynb file and deploy the function to tabpy server;
 5. open twbx file, config tabpy server address, then enjoy it!
 
-![image could be find in github page](/Iris_analysis_and_prediction.png "Iris_analysis_and_prediction")
+![image could be find in github page](/Iris_analysis_and_prediction.gif "Iris_analysis_and_prediction")
 
 #### References： 
 [Tableau Tabpy Github page](https://github.com/tableau/TabPy)   
